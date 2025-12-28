@@ -1,4 +1,4 @@
-**💼 GenAI Finance Advisor **
+** GenAI Finance Advisor **
 A professional AI-powered business expense analysis dashboard built using Streamlit, Python, and Generative AI (RAG-style prompting).
 This app helps users upload their business expense data and instantly gain visual insights and smart financial advice.
 
